@@ -101,7 +101,7 @@ See the example on [CodePen](https://soon.io)
 
 ### Do you wanna change that long name?
 
-oldFashionedAjax is a bit long and ugly but you can change in you project like this:
+oldFashionedAjax is a bit long and ugly but you can change it in you project like this:
 
 ```js
 var ajax = oldFashionedAjax;
