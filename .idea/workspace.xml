@@ -14,66 +14,24 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ajax.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/utils/ajax.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="701">
-              <caret line="63" column="23" lean-forward="true" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1454">
-                <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+              <first_editor relative-caret-position="603">
+                <caret line="128" column="4" lean-forward="false" selection-start-line="128" selection-start-column="4" selection-end-line="128" selection-end-column="4" />
                 <folding>
-                  <marker date="1590119324981" expanded="true" signature="851:1021" ph="{...}" />
-                  <marker date="1590119324981" expanded="true" signature="879:906" ph="{...}" />
-                  <marker date="1590119324981" expanded="true" signature="932:961" ph="{...}" />
-                  <marker date="1590119324981" expanded="true" signature="985:1019" ph="{...}" />
-                  <marker date="1590119324981" expanded="true" signature="1598:1806" ph="{&quot;type&quot;: &quot;post&quot;...}" />
-                  <marker date="1590119324981" expanded="true" signature="1664:1691" ph="{...}" />
-                  <marker date="1590119324981" expanded="true" signature="1717:1746" ph="{...}" />
-                  <marker date="1590119324981" expanded="true" signature="1770:1804" ph="{...}" />
+                  <marker date="1590119515097" expanded="true" signature="851:1021" ph="{...}" />
+                  <marker date="1590119515097" expanded="true" signature="879:906" ph="{...}" />
+                  <marker date="1590119515097" expanded="true" signature="932:961" ph="{...}" />
+                  <marker date="1590119515097" expanded="true" signature="985:1019" ph="{...}" />
+                  <marker date="1590119515097" expanded="true" signature="1598:1806" ph="{&quot;type&quot;: &quot;post&quot;...}" />
+                  <marker date="1590119515097" expanded="true" signature="1664:1691" ph="{...}" />
+                  <marker date="1590119515097" expanded="true" signature="1717:1746" ph="{...}" />
+                  <marker date="1590119515097" expanded="true" signature="1770:1804" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dist/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/html/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="43" lean-forward="true" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -417,12 +375,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590112713991</updated>
-      <workItem from="1590112715197" duration="6609000" />
+      <workItem from="1590112715197" duration="6794000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6609000" />
+    <option name="totallyTimeSpent" value="6794000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -522,30 +480,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/old-fashioned-ajax.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/demo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -582,20 +516,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dist/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/old-fashioned-ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1454">
-            <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <first_editor relative-caret-position="603">
+            <caret line="128" column="4" lean-forward="false" selection-start-line="128" selection-start-column="4" selection-end-line="128" selection-end-column="4" />
             <folding>
-              <marker date="1590119324981" expanded="true" signature="851:1021" ph="{...}" />
-              <marker date="1590119324981" expanded="true" signature="879:906" ph="{...}" />
-              <marker date="1590119324981" expanded="true" signature="932:961" ph="{...}" />
-              <marker date="1590119324981" expanded="true" signature="985:1019" ph="{...}" />
-              <marker date="1590119324981" expanded="true" signature="1598:1806" ph="{&quot;type&quot;: &quot;post&quot;...}" />
-              <marker date="1590119324981" expanded="true" signature="1664:1691" ph="{...}" />
-              <marker date="1590119324981" expanded="true" signature="1717:1746" ph="{...}" />
-              <marker date="1590119324981" expanded="true" signature="1770:1804" ph="{...}" />
+              <marker date="1590119515097" expanded="true" signature="851:1021" ph="{...}" />
+              <marker date="1590119515097" expanded="true" signature="879:906" ph="{...}" />
+              <marker date="1590119515097" expanded="true" signature="932:961" ph="{...}" />
+              <marker date="1590119515097" expanded="true" signature="985:1019" ph="{...}" />
+              <marker date="1590119515097" expanded="true" signature="1598:1806" ph="{&quot;type&quot;: &quot;post&quot;...}" />
+              <marker date="1590119515097" expanded="true" signature="1664:1691" ph="{...}" />
+              <marker date="1590119515097" expanded="true" signature="1717:1746" ph="{...}" />
+              <marker date="1590119515097" expanded="true" signature="1770:1804" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />

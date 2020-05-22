@@ -126,7 +126,7 @@ npm run build # alias of prod
 
 ## TODO
 
-- [ ] Add to the npm directory.
+- [x] Add to the npm directory.
 
 ## Contributors
 
