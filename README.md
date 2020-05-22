@@ -59,7 +59,7 @@ See the example on [CodePen](https://codepen.io/hayatbiralem/pen/GRpzBKQ?editors
 
 ### Promise-ish?
 
-oldFashionedAjax returns promise like function so you can collect it and you can use it when you need it.
+oldFashionedAjax returns promise like function so you can collect it and then you can use it when you need it.
 
 This is because sometimes our logic requires that to collect a promise-ish and use it later.
 
