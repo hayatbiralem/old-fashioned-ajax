@@ -7,29 +7,29 @@ ready(function () {
     result.innerHTML = 'Pending...';
   };
 
-// GET
-document.getElementById('get').addEventListener('click', function () {
-  pending();
+  // GET
+  document.getElementById('get').addEventListener('click', function () {
+    pending();
 
-  let promise_ish = oldFashionedAjax('https://jsonplaceholder.typicode.com/todos/1');
+    let promise_ish = oldFashionedAjax('https://jsonplaceholder.typicode.com/todos/1');
 
-  promise_ish({
-    success: function (res) {
-      console.log(res);
-      result.innerHTML = '<pre>' + JSON.stringify(res, null, 2) + '</pre>';
-    },
-    error: function (res) {
-      console.error(res);
-      result.innerHTML = '<pre>Error! Look the console for details.</pre>';
-    },
-    always: function () {
-      console.info('Always!');
-      let pre = document.createElement('pre');
-      pre.innerHTML = 'Always!';
-      result.append(pre);
-    }
+    promise_ish({
+      success: function (res) {
+        console.log(res);
+        result.innerHTML = '<pre>' + JSON.stringify(res, null, 2) + '</pre>';
+      },
+      error: function (res) {
+        console.error(res);
+        result.innerHTML = '<pre>Error! Look the console for details.</pre>';
+      },
+      always: function () {
+        console.info('Always!');
+        let pre = document.createElement('pre');
+        pre.innerHTML = 'Always!';
+        result.append(pre);
+      }
+    });
   });
-});
 
   // POST
   document.getElementById('post').addEventListener('click', function () {
