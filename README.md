@@ -8,7 +8,7 @@ Tested IE11 but it should be working with IE10+.
 
 ## Installation
 
-With npm
+With [npm](https://www.npmjs.com/package/old-fashioned-ajax)
 
 ```bash
 npm i old-fashioned-ajax -S
