@@ -1,5 +1,10 @@
 # Old Fashioned Ajax
+
 Lightweight ajax get/post requests for old browsers.
+
+## Browser Support
+
+Tested IE11 but it should be working with IE10+.
 
 ## Installation
 
