@@ -55,7 +55,7 @@ promise_ish({
 });
 ```
 
-See the example on [CodePen](https://soon.io)
+See the example on [CodePen](https://codepen.io/hayatbiralem/pen/GRpzBKQ?editors=0010)
 
 ### Promise-ish?
 
@@ -97,7 +97,7 @@ promise_ish({
 });
 ```
 
-See the example on [CodePen](https://soon.io)
+See the example on [CodePen](https://codepen.io/hayatbiralem/pen/GRpzBKQ?editors=0010)
 
 ### Do you wanna change that long name?
 
